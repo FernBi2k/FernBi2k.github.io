@@ -85,17 +85,10 @@ const CONFIG = {
   experiences: [
     {
       company: 'CSU Stanislaus',
-      position: 'Assistant Professor',
-      from: 'August 2022',
+      position: 'Student',
+      from: 'August 2018',
       to: 'Present',
       companyLink: 'https://www.csustan.edu',
-    },
-    {
-      company: 'CSU Fresno',
-      position: 'Assistant/Associate Professor',
-      from: 'August 2015',
-      to: 'August 2022',
-      companyLink: 'https://www.fresnostate.edu',
     },
   ],
   certifications: [
