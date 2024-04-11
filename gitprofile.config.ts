@@ -80,7 +80,7 @@ const CONFIG = {
       'https://FernBi2k.github.io/pdf/DemoCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PCR', 'Bioinformatics', 'Teaching'
+    'PCR', 'Bioinformatics', 'Teaching', 'Writing', 'Time Management', 'Prioritization'
   ],
   experiences: [
     {
