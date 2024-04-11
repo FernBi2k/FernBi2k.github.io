@@ -107,16 +107,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'CSU Fresno',
-      degree: 'MBA',
-      from: '2020',
+      institution: 'CSU Stanislaus',
+      degree: 'Bachelor in Science Nursing',
+      from: '2018',
       to: '2024',
     },
     {
-      institution: 'University of Texas at San Antonio',
-      degree: 'PhD',
-      from: '2007',
-      to: '2012',
+      institution: 'CSU Stanislaus',
+      degree: 'Minor in Biological Science',
+      from: '2022',
+      to: '2024',
     },
   ],
   publications: [
