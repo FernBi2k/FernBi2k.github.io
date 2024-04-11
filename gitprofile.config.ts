@@ -80,7 +80,7 @@ const CONFIG = {
       'https://FernBi2k.github.io/pdf/DemoCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PCR', 'Bioinformatics', 'Teaching', 'Writing', 'Time Management', 'Prioritization'
+    'PCR', 'Patient advocate', 'Teaching', 'Writing', 'Time Management', 'Prioritization'
   ],
   experiences: [
     {
@@ -90,11 +90,17 @@ const CONFIG = {
       to: 'Present',
       companyLink: 'https://www.csustan.edu',
     },
+    {
+      company: 'Memorial Medical Center',
+      position: 'Preceptee',
+      from: 'January 2024',
+      to: 'Present',
+    },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
+      name: 'BLS',
+      body: 'Basic Life Support',
       year: 'March 2022',
       link: 'https://example.com',
     },
