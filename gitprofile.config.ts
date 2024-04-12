@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://FernBi2k.github.io/pdf/CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/FernBi2k/FernBi2k.github.io/raw/main/pdf/CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PCR', 'Patient advocate', 'Teaching', 'Writing', 'Time Management', 'Prioritization'
