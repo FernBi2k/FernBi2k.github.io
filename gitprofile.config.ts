@@ -121,22 +121,13 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Effects of short-term experimental manipulation of captive social environment on uropygial gland microbiome and preen oil volatile composition',
+      title: ,
       conferenceName: '',
-      journalName: 'Frontiers in Ecology and Evolution',
-      authors: 'Danielle J. Whittaker, Amruth Atyam, Nathan A. Burroughs, Jonathan M. Greenberg, Travis J. Hagey, Milos V. Novotny, Helena A. Soini, Kevin R. Theis, Tricia A. Van Laar, and Joel W. G. Slade',
-      link: 'https://www.frontiersin.org/articles/10.3389/fevo.2022.1027399/full',
+      journalName: '',
+      authors: '',
+      link: '',
       description:
         '',
-    },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
